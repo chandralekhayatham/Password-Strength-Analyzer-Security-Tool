@@ -8,6 +8,16 @@ The tool evaluates passwords using multiple signals including length, character 
 
 ---
 
+## 📸 Screenshots
+
+### Password Strength Analysis
+
+![Password Strength Analysis](screenshots/01-password-analysis.png)
+
+### Privacy-Safe Analytics Dashboard
+
+![Privacy-Safe Analytics Dashboard](screenshots/02-privacy-dashboard.png)
+
 ## ✨ Features
 
 * 🔢 **0–100 password strength score**
